@@ -44,7 +44,7 @@ Here’s what I gained hands-on experience with:
 
 > *(Include a screenshot named `dashboard-preview.png` in your repository to show here)*
 
-![Dashboard Preview](Necessary_Files/Dashboard 1.png)
+![Dashboard Preview](Necessary_Files/Dashboard%201.png)
 
 ---
 
