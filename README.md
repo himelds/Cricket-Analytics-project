@@ -18,12 +18,6 @@ The challenge was to simulate a real-world sports analytics project by:
 
 ---
 
-## 🙌 Acknowledgement
-
-A huge thanks to **Hemanand Vadivel**, **Dhaval Patel**, and the entire **#codebasics** team for designing such a valuable challenge and creating a detailed, high-quality dataset that emulates a real-world analytics scenario.
-
----
-
 ## 🧠 Key Learnings
 
 Here’s what I gained hands-on experience with:
@@ -50,7 +44,7 @@ Here’s what I gained hands-on experience with:
 
 > *(Include a screenshot named `dashboard-preview.png` in your repository to show here)*
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](Necessary_Files/Dashboard 1.png)
 
 ---
 
