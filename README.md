@@ -42,7 +42,6 @@ Here’s what I gained hands-on experience with:
 
 ## 🖼️ Dashboard Preview
 
-> *(Include a screenshot named `dashboard-preview.png` in your repository to show here)*
 
 ![Dashboard Preview](Necessary_Files/Dashboard%201.png)
 
